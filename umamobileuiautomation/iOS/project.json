@@ -1,0 +1,9 @@
+{
+  "name": "HHAeXchange UMA",
+  "device_pool_name": "ios_ipad_devices",
+  "recipients": "varudhra@hhaexchange.com, vchandrappa@hhaexchange.com, prakash.n@3ktechnologies.com",
+  "run": {
+    "name": "RC4_iOS",
+    "description": "Running test on RC4 features End to End iphone & ipads" 
+  }
+}

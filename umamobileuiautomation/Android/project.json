@@ -1,0 +1,9 @@
+{
+  "name": "HHAeXchange UMA",
+  "device_pool_name": "HHA_ANDROID",
+  "recipients": "varudhra@hhaexchange.com, vchandrappa@hhaexchange.com, prakash.n@3ktechnologies.com",
+  "run": {
+    "name": "RC4_Features",
+    "description": "RC4 features running on AWS with new build" 
+  }
+}
